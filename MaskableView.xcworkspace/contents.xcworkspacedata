@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MaskableView-iOS.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/k-ueoka/Development/iOS/MaskableView/AnimationMaskableView-iOS.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/k-ueoka/Development/iOS/MaskableView/MultiMaskableView-iOS.playground">
+   </FileRef>
+   <FileRef
+      location = "group:MaskableView/MaskableView.xcodeproj">
+   </FileRef>
+</Workspace>
