@@ -41,8 +41,9 @@ let mask: MaskableView.Mask = MaskableView.Mask(frame: CGRect(origin: CGPoint(x:
 
 view.set(mask: mask)
 redView.addSubview(view)
-
 ```
+
+![simple](https://cloud.githubusercontent.com/assets/322930/21514934/37681596-cd0e-11e6-96da-09e367ad5005.png)
 
 ## Multiple mask
 
@@ -63,6 +64,8 @@ maskView.add(maskFrame: CGRect(origin: CGPoint(x: 50.0, y: 200.0), size: CGSize(
 }
 redView.addSubview(maskView)
 ```
+
+![multi](https://cloud.githubusercontent.com/assets/322930/21514909/fde54b04-cd0d-11e6-95f1-780f1d33114e.png)
 
 ## Animation mask
 
@@ -85,3 +88,4 @@ maskView.animationCompletion = {
 view.addSubview(maskView)
 ```
 
+![animation](https://cloud.githubusercontent.com/assets/322930/21514918/1cfb4c5a-cd0e-11e6-8ddb-ae1be7bb67a2.gif)
